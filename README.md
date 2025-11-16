@@ -12,4 +12,5 @@ Rainmeter is a Windows desktop customization platform that lets you place:
   interactive UI elements
 Rainmeter skins run in their own transparent window, which you can position exactly over the taskbar—giving the illusion that the animation is inside the taskbar.
 Documentation: https://docs.rainmeter.net/
+
 - Research C# transparent window Implementation
